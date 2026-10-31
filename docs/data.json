@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T17:18+09:00",
+ "updated_at": "2026-11-01T07:10+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,65 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "81145f018c81597b",
+   "title": "プラグイン式ソーラーパネルの市場投入により、家庭でのコスト削減が可能に（英国DESNZ）｜土肥宏吉",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43RWtOTWpfU3htNFBXSnQtdkxuODVBa1U2N3ZvRndnbEdiNFV2WjNNVEN1UzJONGs5YUJzdnhyZ2hfSmI0UlozUE9PemJwUGdtck9CN1V3c0hwbHV6MjhMbg?oc=5",
+   "source": "JIJICO",
+   "summary": "プラグイン式ソーラーパネルの市場投入により、家庭でのコスト削減が可能に（英国DESNZ）｜土肥宏吉 JIJICO",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-01T00:00+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
+   "id": "668df882ef242ae7",
+   "title": "系統用蓄電池のコンテナはどう冷やされているのか――構造と冷却方式の基礎を解説するウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqWDJDdFJGMzMzT3BwN3dpRGlWWGJTdW1ya0JMOEFYMzB6b1ZaQTdWVE1hZTc1TTdkTTFJZHRjT3hxVEd3LXg0OWdIaTNCblpQS1FSQVNESXdVeFQ2bWxKMmM5UGREV1lWYlE?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池のコンテナはどう冷やされているのか――構造と冷却方式の基礎を解説するウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-31T18:30+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "df62547579a89710",
+   "title": "系統用蓄電池のPCS「直流と交流の橋渡し役」の基礎を解説するウェビナーを開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBla05nbEJMVFpwdFpRVFZfUjExTVB3Z29iZGFkR3ZIdGtqeFNwTWxzV2U2b0pJMHBLbDN2RnNkc09KdnFQUlVFbE55d0J1U3M3RzdUdmtWQ093VmNLYWp3aXdLUkN5YTFQdmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "系統用蓄電池のPCS「直流と交流の橋渡し役」の基礎を解説するウェビナーを開催 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-10-31T18:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "ジャパンブランディング株式会社"
+  },
+  {
+   "id": "69390b7699c0e3d0",
+   "title": "バルコニー用太陽光発電システムの世界市場（2026年～2032年）、市場規模（一体型、分離型）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ma0JpRmxqZURWbWgwaGRFY2VaYU40alZuUXhtUFlLdldOcGllSjljTS1MMG4xYUFPRXFIcVlTRklGNXBhajZTMk44SGJrd28?oc=5",
+   "source": "アットプレス",
+   "summary": "バルコニー用太陽光発電システムの世界市場（2026年～2032年）、市場規模（一体型、分離型）・分析レポートを発表 アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-10-31T17:30+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "b49c0554e979ddc7",
    "title": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
@@ -49,6 +108,20 @@
    "topic": "発電所・開発"
   },
   {
+   "id": "dbe5f6f6e6124467",
+   "title": "テクノロジーズ、太陽光発電設備の施工・販売を手がけるエコ革を自己株式取得に応じて譲渡",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1icEZIZ0tVYlpfS0NLVGx4bzRwbTNIckQxSWVCNHlIMDJ4Y044RjRrMFNSczVzTXg4YUhQSzF2WEFGQU96SlVYZ3ZwUVlMQ1NtS1ZFWENEQjR4X1VpNjF3?oc=5",
+   "source": "コトラ（KOTORA）",
+   "summary": "テクノロジーズ、太陽光発電設備の施工・販売を手がけるエコ革を自己株式取得に応じて譲渡 コトラ（KOTORA）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T15:59+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "3b516c199c167477",
    "title": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画｜行政・政治｜青森ニュース｜Web東奥",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5md0VQN0xMYXJoc1FIMmxqSHNQTGk0RnkxV3RHLTktaTMwaklvR3JKT1lqbXpOTHdzS3JOdjNnVndLUkpabUpMdkRiWUJyX3A4Q1R5RGxrSG4?oc=5",
@@ -75,6 +148,22 @@
    "published": "2026-10-31T12:56+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "5759b25d92a747bf",
+   "title": "屋根から蓄電池へ：マレーシアの太陽光シフトがヴァーダント・ソーラーに機会をもたらす理由",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblRDZk43aC00T2ZDNFRGUG82Qmlnc05TQ0hva3RXall2NHBRMC1OblBubWF3ekF0MzVySm9QUElUTjVrNnVrOFhiZjBLQUFCSEZlVWdLcS16bkFjUVpOTi12UVRaTGpGbmpoaF9ueThMZTFUQVhFMTlrU1Z2XzdNcmQ1bWEyYi1FdWNRenh3ZmUzcGExeEtMUEtCWDVGejVmV3lqLUJlaTNpN1ZYdzRlVm9GOA?oc=5",
+   "source": "Moomoo",
+   "summary": "屋根から蓄電池へ：マレーシアの太陽光シフトがヴァーダント・ソーラーに機会をもたらす理由 Moomoo",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-31T12:29+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他"
   },
   {
    "id": "2bdcd943ccc61b43",
@@ -592,6 +681,20 @@
    "storage_topic": "その他"
   },
   {
+   "id": "4068a37bdbf27f4b",
+   "title": "ジェリビンズ(3070) （変更）「系統蓄電所向けの蓄電池の受注契約締結に関するお知らせ」の一部変更に関するお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWTzBNR2dPdzUxeDRMVV9yMy1lNDgzTmlnMklkeVRfNG1ZUWFrZVRsSGF3LTE5TFZnVlF1YjRhQ1JWQ282eWs5QzY1NVpsc3VBNFg3Sw?oc=5",
+   "source": "みんかぶ",
+   "summary": "ジェリビンズ(3070) （変更）「系統蓄電所向けの蓄電池の受注契約締結に関するお知らせ」の一部変更に関するお知らせ みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
    "id": "fb9b1895e9b48db2",
    "title": "使用済み太陽光パネル、50トン以上廃棄で計画提出義務 メガソーラー事業者の大半が対象",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDMHh3YmZwZUV6S3pNOG5yMG80Ynhzb092NHRYeEF2a1I2bU13VGFLV09zS0gxblgtYjd0Y1FxSkhIajBRNmhsRlJCQWdqRTE0LThSdS13Qlh3Z2dWTmNrU1dOZ2pXTmlBZG5JZ2Z2RnZxc21sTEE?oc=5",
@@ -957,6 +1060,20 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNbVBwOXpuYkF0MVdxeTBzMzRvV3lpbFNoZy1yS2lPVTNyM1VOMHpaZm5jbmI5UXUzMTZfRWRVWVdDVmNmYnQtVDZFQTVZMDZ4dTRIRElEM0lXeko3RW5PNVYxQmJwV1VZY3c?oc=5",
    "source": "日本経済新聞",
    "summary": "グリーンエナジー＆カンパニー[1436]：系統用蓄電所システムの工事受注に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:30+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "dfd7de17d1779308",
+   "title": "系統用蓄電所システムの工事受注に関するお知らせ 投稿日時： 2026/10/30 12:30[適時開示]",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SNW5MU0ItWjJBVjlBSk1tZTZIQ2dUcmhYbXkxTU9nODNHSmFqRzB0S002SUZtbG5PcjVWbnpKbnFzN3FwWGc?oc=5",
+   "source": "みんかぶ",
+   "summary": "系統用蓄電所システムの工事受注に関するお知らせ 投稿日時： 2026/10/30 12:30[適時開示] みんかぶ",
    "categories": [
     "storage"
    ],
@@ -1623,6 +1740,20 @@
    "published": "2026-10-29T17:36+09:00",
    "via": "Googleニュース「メガソーラー・ペロブスカイト」",
    "topic": "発電所・開発"
+  },
+  {
+   "id": "1fc633318331039e",
+   "title": "曲がる太陽電池、東京都が開発企業と希望者マッチング 普及へ導入支援",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSTNRM1VZRHBJeE0tZjBXX3AwcmF2U3V4NWFPOUZCZkgzNWlpMzVkUVlRdjhWVVVGUk5mdDVSUEVtcFdIdDRPUnNRMjJnSEhLOG5LMTcxY2lBZWt4TWFVeW9mREI1MmJqYlBsZQ?oc=5",
+   "source": "日本経済新聞",
+   "summary": "曲がる太陽電池、東京都が開発企業と希望者マッチング 普及へ導入支援 日本経済新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T17:08+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "167c2be828690449",
@@ -3906,6 +4037,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "b86a32d6febcf66f",
+   "title": "◎リコー、ペロブスカイト太陽電池量産へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQVEZ0UFpzLTB4R19RdHZCY3U0TzBDWFJ0M2RqUzZsRk1UeHU1WTN5VU1mZ1VqTzRLZmFhUTlLdDZuUDNfc0FlaVAwQS1VdktKdlBZcXE4RWlDaXVpRUE?oc=5",
+   "source": "時事通信ニュース",
+   "summary": "◎リコー、ペロブスカイト太陽電池量産へ 時事通信ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T17:08+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "140276687e4e43e3",
    "title": "Bluefield Energy、系統用蓄電所の契約手続きを一元化し事業化を加速する体制整備",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42VkxYQzlKYzBpSk5iQVF5Ti1sYkFuSWgtQ1NiLWYwRUo5dUdXNnVVemtSby1iLTRIcDY1TVQwTTNmTzRQTUpv?oc=5",
@@ -4020,6 +4165,20 @@
    "published": "2026-10-27T16:00+09:00",
    "via": "Googleニュース「系統用蓄電池」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "7ffb1764a655a9d9",
+   "title": "高市戦略で「原発20基分」目標に｜曲がる太陽電池ペロブスカイト、電気代・再エネ賦課金への影響は？",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFZWMzRCV0phcm9kNUs2ajlkWWJuWUlMNU5yZVIzZnU4eTJtbi1naVlFVTkxQUNzQl84d0lLLUdJZ3JYNldpTEJCRC1xU21YaTl0cV9xUmVBRmRsWFVHMGljSnM3VUJaYWRWX1JIMm05SE4xeUZpeDRISktDS1JuQnRtcDk?oc=5",
+   "source": "セレクトラ",
+   "summary": "高市戦略で「原発20基分」目標に｜曲がる太陽電池ペロブスカイト、電気代・再エネ賦課金への影響は？ セレクトラ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-27T16:00+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "4a869ac336fb0470",
