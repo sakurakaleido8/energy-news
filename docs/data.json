@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T11:26+09:00",
+ "updated_at": "2026-11-01T14:20+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,21 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "3bdeaf840401e556",
+   "title": "強化ソーラーガラスの世界市場（2026年～2032年）、市場規模（3.2mm、2.5mm、2.0mm、その他）・分析レポートを発表",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVVnhwZzdWT0d5ZE5XUktfaVh2cjJFTmFYZWZORTBJcFRVMFViNXdlRTRCeXR4NXRkTGs1SjVTRFBDT3VZWko4S29DQUttSEE?oc=5",
+   "source": "Newscast.jp",
+   "summary": "強化ソーラーガラスの世界市場（2026年～2032年）、市場規模（3.2mm、2.5mm、2.0mm、その他）・分析レポートを発表 Newscast.jp",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-01T12:30+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
   {
    "id": "754a9e0211c0d59b",
    "title": "超音波ソーラー式動物忌避器の世界市場（2026年～2032年）、市場規模（鳥よけ、鹿よけ、ウサギよけ、齧歯類よけ、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
@@ -780,6 +795,20 @@
    "published": "2026-10-30T16:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "466c1865a6302dba",
+   "title": "太陽光発電のニュース・記事一覧（2026年10月）",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45d2VwWGNKZjliX1lCT2RXTmRadkJ4MGttQkpmSGJRSE1JeDdYcVR5dzg1Q2ZXRUplQ3hNRmQ2QTIyNy1vUEt1eHNIU3p4NlczWFhFYzdkMGhPa0wxQ2pPbGx3?oc=5",
+   "source": "環境ビジネスオンライン",
+   "summary": "太陽光発電のニュース・記事一覧（2026年10月） 環境ビジネスオンライン",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T16:00+09:00",
+   "via": "環境ビジネス",
+   "topic": "その他"
   },
   {
    "id": "8d028fbfc6db2403",
