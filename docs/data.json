@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T07:10+09:00",
+ "updated_at": "2026-11-01T11:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -19,6 +19,35 @@
   "その他"
  ],
  "items": [
+  {
+   "id": "754a9e0211c0d59b",
+   "title": "超音波ソーラー式動物忌避器の世界市場（2026年～2032年）、市場規模（鳥よけ、鹿よけ、ウサギよけ、齧歯類よけ、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYbmVwRVlWUkkzTndoVEVnYTliRDg5aUhMNy13LW5xakhiV3lPVmtVTHp3b19iaEhyQk5EX3RMMkRacE5aWnMxdXVnampiTUU?oc=5",
+   "source": "アットプレス",
+   "summary": "超音波ソーラー式動物忌避器の世界市場（2026年～2032年）、市場規模（鳥よけ、鹿よけ、ウサギよけ、齧歯類よけ、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター アットプレス",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-01T10:00+09:00",
+   "via": "@Press（太陽光・蓄電池）",
+   "topic": "市場・企業",
+   "company": "株式会社マーケットリサーチセンター"
+  },
+  {
+   "id": "0aa32b29c2bdfe2f",
+   "title": "太陽光発電システムの設置を希望する人々に対し、早期に支援を提供する。",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04SzdrWFp4S05vSm0xTVIyNWxHbTNBMGM3U1hYTTBYb3N4VVR2RmNGdHJJeE1iVkZlVW9GM3JHRlNzVFJqZllYaWFGVG1Uem5Pc1JybGFlTjF5VXY5dkhnLWpwWndTVHdaVFZVNHpYRXVZdw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽光発電システムの設置を希望する人々に対し、早期に支援を提供する。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-01T08:57+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
   {
    "id": "81145f018c81597b",
    "title": "プラグイン式ソーラーパネルの市場投入により、家庭でのコスト削減が可能に（英国DESNZ）｜土肥宏吉",
@@ -122,6 +151,20 @@
    "topic": "市場・企業"
   },
   {
+   "id": "d60d0d55f6b46b34",
+   "title": "クリーンな太陽光パネルの裏側：22万人の中国人労働者の生活不安",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUko5Zy1wM2ZyZ2syMnVyTHRkSm4zUnIzLWtOd01PSk9yZGFiaTJiRmNzWWd4aFlMU0prUmNoRnF6M2Z4Mi0tSkQ1Z0cwSW5WZmFNbWdjVmRCX3BFLWh3NnhfV2NuUV8wQmprSmYyOUoxelZfY1k1S19GTE9fUWU4cXhyMmNQc0hzdFRuR2M5ZjE4V3luZ0N2VA?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "クリーンな太陽光パネルの裏側：22万人の中国人労働者の生活不安 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T13:02+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
    "id": "3b516c199c167477",
    "title": "共生変更「該当せず」 知事 否定的な見解／おいらせ太陽光発電計画｜行政・政治｜青森ニュース｜Web東奥",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5md0VQN0xMYXJoc1FIMmxqSHNQTGk0RnkxV3RHLTktaTMwaklvR3JKT1lqbXpOTHdzS3JOdjNnVndLUkpabUpMdkRiWUJyX3A4Q1R5RGxrSG4?oc=5",
@@ -163,6 +206,36 @@
    "published": "2026-10-31T12:29+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "住宅・自家消費",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "d43c9692f470b267",
+   "title": "太陽電池は、60年以上という物理的な寿命を間もなく超えるのだろうか？",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2NLc1l3b2o5Q0w0NUJKcWljeTlmQkVyWk5FQmtpU1NQSlZjQ2JSeUJwZlBZSER5amhmRl9fVk0wa3MyVmZjVlowQUE1RXZhVXYyV1B3dWtoaGhMR3Z1bnRfOWFZNHE2ZlU0QXdvazJzRmdtMkxHMTRCbmJrcUx0bEpwQmRvT01NX3c?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "太陽電池は、60年以上という物理的な寿命を間もなく超えるのだろうか？ Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T10:48+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
+  },
+  {
+   "id": "11906a855fb69db6",
+   "title": "マツダ、三次事業所で蓄電池と太陽光を併用のシステム稼働",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ZHJZQ1VLbDVSQ3N3a1QyREg5TFhMZHFtZGZPRElpbDVSVFZSMFZUZ09pdzZsdlIyVGpNZkYtbnVjOGxfMWtockFnQQ?oc=5",
+   "source": "47NEWS",
+   "summary": "マツダ、三次事業所で蓄電池と太陽光を併用のシステム稼働 47NEWS",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-31T10:38+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発",
    "storage_topic": "その他"
   },
   {
@@ -348,6 +421,20 @@
    "published": "2026-10-31T05:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "その他"
+  },
+  {
+   "id": "1892b5c9bb9b63f9",
+   "title": "人気テーマ株速報：太陽光発電大幅安 アプライド マテリアルズなどが注目＝米株ザラ場",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDZTdnFKRnFOa29VeUE2RENIT2kwd0NqeEl1WGZHcWxnY3JUQnpBXzdnZVpmUkJlNWlpeDFid0RuWXo5bDJaaEtOSXNHcmcwR1l0dFdxU1VpU3JtVExQaHFPVjVrSE5ubDRoc1lmZWdTeTMtSXpkVEx4SUpIQk9mY0lOSmhHeTMxRnZyTW9GYUt1V2pCclJfY2lLRmRjNC1NbjJ0a2xSclNlTlFTSDlISFptSzJmLUU?oc=5",
+   "source": "Moomoo",
+   "summary": "人気テーマ株速報：太陽光発電大幅安 アプライド マテリアルズなどが注目＝米株ザラ場 Moomoo",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-31T03:10+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
   },
   {
    "id": "4ad227eee1457879",
@@ -693,6 +780,20 @@
    "published": "2026-10-30T16:00+09:00",
    "via": "Googleニュース「蓄電所」",
    "storage_topic": "その他"
+  },
+  {
+   "id": "8d028fbfc6db2403",
+   "title": "カルコパイライト太陽電池を用いた水位観測設備でのオフグリッド運用実証実験を開始します！",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlh1LWl5eTkzRXhCRlVyMGlua3NvZXdUSldfTzUxS3N3Z1JpNW9YdzZ6VHU1X043czF0clQtSGNnZ05iN1VTdWU1YmZJSGRHc0xsaWxUR2hfWll2RkhCNUVabTNjNzE5WHJPeXZSTnl0WWpYOTd0b214SGRhRV91QWxVSnhfcWRf?oc=5",
+   "source": "福岡県庁ホームページ",
+   "summary": "カルコパイライト太陽電池を用いた水位観測設備でのオフグリッド運用実証実験を開始します！ 福岡県庁ホームページ",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-30T15:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "fb9b1895e9b48db2",
@@ -1046,6 +1147,20 @@
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZakxzNmZ5TThCWnV5MzhsaXBQckhaNXhCOVViLS1OYTNUOExzV3h6WTFzVzFBRlAyVXA2M1FRN18wR1RMX2c?oc=5",
    "source": "みんかぶ",
    "summary": "栃木県栃木市における系統用蓄電所 完工・引渡のお知らせ 投稿日時： 2026/10/30 12:31[適時開示] みんかぶ",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-30T12:31+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "cdccb89cdb57c549",
+   "title": "グリーンエナジー＆カンパニー[1436]：栃木県栃木市における系統用蓄電所 完工・引渡のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSHhIU2VWZGlubzRReG90Vmo3dWstY00yWXZoYnpvb0FBSnA5TmxZMzlNNFZFcDZtLWdUWG5BVXZUczQxWmZFTFZnNkRNTXUxaWZwT3E5LWtkUjZfVW9rUUJsZUxZMnZhaXc?oc=5",
+   "source": "日本経済新聞",
+   "summary": "グリーンエナジー＆カンパニー[1436]：栃木県栃木市における系統用蓄電所 完工・引渡のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
    "categories": [
     "storage"
    ],
@@ -1655,6 +1770,20 @@
    "topic": "次世代技術"
   },
   {
+   "id": "d757d47826842709",
+   "title": "屋上太陽光発電設備の設置に対し、1世帯あたり最大300万ベトナムドンまでの補助金を提供する提案。",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3NKRV9qVVo1bGw4ZUFnVDNhcGFjYUNzcVhsS3drZXdsX1oxWjNtRHF4aUk3SGZEaTFlSGNVUGxUekltTVdWTnhnQzdBRUwwa3NaaEk3VjV4c0hLNmQ3VTl5NmdtVGw0X2FLOUFRZ2pRYjllT01HNzNhN0YxU3NjVGlXYjczbEJwRjdHNlJ3RWFQVV84Q2Etaw?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "屋上太陽光発電設備の設置に対し、1世帯あたり最大300万ベトナムドンまでの補助金を提供する提案。 Vietnam.vn",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T18:09+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度"
+  },
+  {
    "id": "8560af7a06680e13",
    "title": "系統用蓄電池はなぜLFP（リン酸鉄リチウム）が主流なのか――NMCとの違いを読み解くウェビナーを開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000081.000181124.html",
@@ -1930,6 +2059,20 @@
    "company": "株式会社PXP"
   },
   {
+   "id": "f73a3460ff5c12eb",
+   "title": "太陽光発電用ETFEフィルムの世界市場2026年、グローバル市場規模（光沢型フィルム、つや消し型フィルム）・分析レポー",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hUEdia0lVeldOVHpXc2JibnNVTFdMUUI0OXlqQmZpaVJDR241ejliUzZHY1RCbS1CcHFfX21KU3Frc2xfY0syTk5LV2RYN1BKSTBlejFxSTlJeC1ENjZrWE41QktmWXNpcHlqRmQ0MEFBS2ptQTZXdjRRSQ?oc=5",
+   "source": "ニコニコニュース",
+   "summary": "太陽光発電用ETFEフィルムの世界市場2026年、グローバル市場規模（光沢型フィルム、つや消し型フィルム）・分析レポー ニコニコニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-29T14:03+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "市場・企業"
+  },
+  {
    "id": "67fc7b6106d5b4c9",
    "title": "「お出かけ」と「家庭用蓄電池」で、夏の電力需要を削減！行動変容と機器制御を組み合わせ、期間中合計７３万ｋＷｈ相当の下げＤＲ効果",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55c3ZMYmVxbnFZamFzejV2ZnZVSkdZTmpfMHpxaWZVcjZKUnpXN213MEtjZVlyQ3licW5EUXV4bDE3eG5DUFYyUXZTMkxYQzZiQ0JQOXZ4TWZtS0d1UDJUTmJEN3gzUDlCQWc?oc=5",
@@ -2175,6 +2318,22 @@
    "published": "2026-10-29T10:36+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "海外"
+  },
+  {
+   "id": "131759234d6d44a4",
+   "title": "ハノイ市は、屋上太陽光発電設備および蓄電設備の設置に対し、最大600万ベトナムドンの補助金を提供している。",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDAtWnFRN1pXTWFjcEZ5dEZzSDRLZlVTMHVsRGg5MXhRejlMM3ZCOVI5VVVqLWI5SW9iM00ycWkyZUpFYXFTV3pkZHRPSVl4RkhQbjFiR1lpN2w5ZUV0cVdCbTZnclMzQjVnQmxZSVo0djQ1V0FYT0pIQ2FUVXRYNXJtcm1nRzIzdG9FMFpXZTJQOHJJWkFVeVg3Z3Y1c1ptbjlJ?oc=5",
+   "source": "Vietnam.vn",
+   "summary": "ハノイ市は、屋上太陽光発電設備および蓄電設備の設置に対し、最大600万ベトナムドンの補助金を提供している。 Vietnam.vn",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-10-29T10:28+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "政策・制度",
+   "storage_topic": "その他"
   },
   {
    "id": "ab3fba6cd9c562d0",
