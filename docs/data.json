@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T11:28+09:00",
+ "updated_at": "2026-11-02T12:26+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -65,6 +65,22 @@
    "topic": "住宅・自家消費",
    "storage_topic": "その他",
    "company": "GCエナジー株式会社"
+  },
+  {
+   "id": "b2ea1dfe546362f9",
+   "title": "【日本蓄電池株式会】島根県出雲市にて系統用蓄電施設「NC出雲市国富町蓄電所」蓄電池設置開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000118.000161802.html",
+   "source": "PR TIMES 新着（直接）",
+   "summary": "[日本蓄電池株式会社] 日本蓄電池株式会社（本社：東京都千代田区、代表取締役社長：漆原秀一）は、開発を進めているNC出雲市国富町蓄電所（所在地：島根県出雲市）において系統用蓄電池を設置したことをお知らせいたします。 カーボ...",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "company": "日本蓄電池株式会社",
+   "via": "PR TIMES 新着（直接）",
+   "pending_notify": true,
+   "storage_topic": "その他"
   },
   {
    "id": "c6dd6328277c5399",
