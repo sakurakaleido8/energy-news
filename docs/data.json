@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T10:43+09:00",
+ "updated_at": "2026-11-02T11:28+09:00",
  "solar_topics": [
   "トラブル・地域",
   "営農型",
@@ -20,6 +20,124 @@
  ],
  "items": [
   {
+   "id": "2cee6e5a45410152",
+   "title": "需給調整市場の一次調整力（オフライン枠）、10月の単価は2.69円上限価格引下げ前の8月から約7割低下（速報）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VThkcWRsWEw0MDEtcGRtaU1ST1YyWURld2VvOWpnQ0luTXBBc3NFMjRCMDM3emRrbmU1ai0tV18xdzJVUlkxZE5VSzZjTDRGbkVTdmVhUmV6aFRBVmpLN3BNV1RrbldqTEE?oc=5",
+   "source": "PR TIMES",
+   "summary": "需給調整市場の一次調整力（オフライン枠）、10月の単価は2.69円上限価格引下げ前の8月から約7割低下（速報） PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:30+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "その他",
+   "company": "RIA PARTNERS株式会社"
+  },
+  {
+   "id": "7f455995e0f59d6e",
+   "title": "【日本蓄電池株式会社】福島県南会津郡にて系統用蓄電施設「NC南会津町田島蓄電所」蓄電池設置開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xUDRaQlpuYTkwZEMwU2dFTnNnYzlJTHFURDYzMDA1UlJTV0FTQ1ZGeWdMeFpMUVNMSkptSVF2d2xNa0pRREw3dGRDb3UtejNxdHR5bjd0dXZPNl9Pb0RQaTg4bTNxbDJ2RXc?oc=5",
+   "source": "PR TIMES",
+   "summary": "【日本蓄電池株式会社】福島県南会津郡にて系統用蓄電施設「NC南会津町田島蓄電所」蓄電池設置開始 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "via": "Googleニュース「系統用蓄電池」",
+   "storage_topic": "その他",
+   "company": "日本蓄電池株式会社"
+  },
+  {
+   "id": "6b433ee79ad7e0bf",
+   "title": "屋根の売電はそのまま、駐車場で自家消費。トモシエ ソーラーカーポートシリーズに、蓄電池標準搭載の新モデル「TYPE 0」が登場",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yVUttUTJIMXRzSF9uMEpybk5XWGlCOEJlbXVSUHFOZGF4R0pkYldhZDZUZV9COHI2aXlRaGE1WGtFeEZqZnJCeksybHFhSDhDY0FqazlZQkF3NkRCMFdralplM1NBbVZTcmc?oc=5",
+   "source": "PR TIMES",
+   "summary": "屋根の売電はそのまま、駐車場で自家消費。トモシエ ソーラーカーポートシリーズに、蓄電池標準搭載の新モデル「TYPE 0」が登場 PR TIMES",
+   "categories": [
+    "solar",
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T10:00+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "topic": "住宅・自家消費",
+   "storage_topic": "その他",
+   "company": "GCエナジー株式会社"
+  },
+  {
+   "id": "c6dd6328277c5399",
+   "title": "太陽光パネルの下でショウガ、順調に栽培できるか・夏場の農作業が快適になるか…実証研究（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlV2M5QTI5blo2TFpGMERZMjg1ZXlEVFA0MUpFZ0d6THVGRDE2X3NhaDctc1I5VG11LUc1OVYyMWhYQXlvbERVc0FreWFsaFhGVlZpakFpN1NnaXpHQm9oZV8yaXBrenVqNm9veVhSZHdvVTV0WWx1cFBJV3VFdzQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "太陽光パネルの下でショウガ、順調に栽培できるか・夏場の農作業が快適になるか…実証研究（読売新聞オンライン） Yahoo!ニュース",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:58+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "次世代技術"
+  },
+  {
+   "id": "c77868c37e97b48e",
+   "title": "大規模な蓄電所「でんきの駅諫早」容量は一般家庭７０００世帯の１日分…２０２８年１２月運用開始予定（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUW4tQ09hbkNCTmRqT1ZvSzNaN09sNFFLV3VjWGQ3aTh4UVFWelJiNzI2QVlMc2xDVmxDUWQ0Tkx1YUc0M281X1I3TUlzSUV2djdSX0FwbWd6OVpXaWNINU4yb2w4eTZsV3BRVTBsanJQdW9BNHF3Z0Myb3FuSUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "summary": "大規模な蓄電所「でんきの駅諫早」容量は一般家庭７０００世帯の１日分…２０２８年１２月運用開始予定（読売新聞オンライン） Yahoo!ニュース",
+   "categories": [
+    "storage"
+   ],
+   "type": "news",
+   "published": "2026-11-02T09:57+09:00",
+   "via": "Googleニュース「蓄電所」",
+   "storage_topic": "その他"
+  },
+  {
+   "id": "7e829aa092985ce2",
+   "title": "新設オフサイト型太陽光発電設備及びオンサイト型太陽光発電設備の余剰環境価値を活用したバーチャルコーポレートPPA契約の締結について",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXOTN2UVdZT2dxX1ZWdWYwT25LajVFUlFoV3NYMDE3UE1XYV9WNHl5bmJTbVhMR05BMDFYS1h4c3lqZE9rRWlram5YNXBQYlpGdXExdVFDMEs0aEl6ZDl5OXpRMXdKOGprX2c?oc=5",
+   "source": "PR TIMES",
+   "summary": "新設オフサイト型太陽光発電設備及びオンサイト型太陽光発電設備の余剰環境価値を活用したバーチャルコーポレートPPA契約の締結について PR TIMES",
+   "categories": [
+    "solar"
+   ],
+   "type": "release",
+   "published": "2026-11-02T09:30+09:00",
+   "via": "PR TIMES（太陽光）",
+   "topic": "住宅・自家消費",
+   "company": "Sun Trinity合同会社"
+  },
+  {
+   "id": "af40ee3f0145f3dd",
+   "title": "袋井市東同笠地内で太陽光発電計画 27年度着工",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOelU3WVZTMkdSTFJtYXp4MlFQVHJwS0Y1Z2dQTk9CS1Zqb3ptb0c5RG5nZzJZOUhXWHBqZTRiRzFNSHNDLWdwcVdCYlU2Znc4S1VJSUloLW5OQUIxQTkxWjlEQUNoakM3Q3haQkpYdzBCQlZMeUM0QU5kN3pGYXpUVA?oc=5",
+   "source": "建通新聞",
+   "summary": "袋井市東同笠地内で太陽光発電計画 27年度着工 建通新聞",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:50+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "発電所・開発"
+  },
+  {
+   "id": "67d482992222abf9",
+   "title": "リコー、ペロブスカイト太陽電池の量産体制構築へ 宮城に生産拠点整備",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iNnBsNEV3OHlQYUd3ZEFOQmdRc2xueDFHVDNnczZMd1ZLcVdvaEszUlFRX2lTODJ1cGN1VDBlNHI2XzFWaFlpWkVORTEwdw?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "summary": "リコー、ペロブスカイト太陽電池の量産体制構築へ 宮城に生産拠点整備 LIGARE（リガーレ）",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T08:32+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
+  },
+  {
    "id": "a0fbea24dd91a4e0",
    "title": "GBP株式会社、Gokin Solar社とBC太陽光パネルの日本を含むアジア市場への展開に向けた戦略的提携に関するMOU（協力意向書）を締結",
    "link": "https://prtimes.jp/main/html/rd/p/000000187.000110590.html",
@@ -32,8 +150,36 @@
    "published": "2026-11-02T08:00+09:00",
    "company": "GBP株式会社",
    "via": "PR TIMES 新着（直接）",
-   "pending_notify": true,
    "topic": "市場・企業"
+  },
+  {
+   "id": "83089a2b4852022f",
+   "title": "3分で読める！あなたのシミュレーションに入っていますか？低圧蓄電池は保安業務が必要【全3回 2026年10月関係省庁独自調査①】",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvV0VWbmJ6ckVfTG85MnltMWJFOGVTOG1yY3BWcHFXMFN5NWs3eU1rZ2o3VzRuUnJnMi1RZmN0T21CeU04TlF2T0NsT1Q3Z1l2dUZFQnlwWjRDYTlfMUw2ZER0WGVNbnBqNHc?oc=5",
+   "source": "PR TIMES",
+   "summary": "3分で読める！あなたのシミュレーションに入っていますか？低圧蓄電池は保安業務が必要【全3回 2026年10月関係省庁独自調査①】 PR TIMES",
+   "categories": [
+    "storage"
+   ],
+   "type": "release",
+   "published": "2026-11-02T07:50+09:00",
+   "via": "PR TIMES（蓄電池）",
+   "storage_topic": "低圧",
+   "company": "REVIX JAPAN株式会社"
+  },
+  {
+   "id": "1d2f1a114939b4e6",
+   "title": "ペロブスカイトの主要メーカーと競争環境",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9USk95UXFIaE1tZVVLbkZvUU1QSHRnWVJKR25LMXg4VXF4ZGs1WWxrX0toamtkWXA4Xy1HbHBqUEJwMU5GTmZxc2Jn?oc=5",
+   "source": "pando.life",
+   "summary": "ペロブスカイトの主要メーカーと競争環境 pando.life",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-11-02T06:04+09:00",
+   "via": "Googleニュース「メガソーラー・ペロブスカイト」",
+   "topic": "次世代技術"
   },
   {
    "id": "6810bc8a4b24326c",
@@ -2921,6 +3067,20 @@
    "published": "2026-10-29T00:00+09:00",
    "via": "Googleニュース「太陽光発電」",
    "topic": "政策・制度"
+  },
+  {
+   "id": "602c7e605617d95b",
+   "title": "英国、10月に大規模太陽光発電4件を承認 1.12GWのGreat North Roadが主導 - ニュースと統計",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3JGTTRmeDB1VFhWTjh6RXBtZHlVZ2pvN2w5b3hSbkhXb3BMYjV0d1NrbUMzQTBnRFBIdk5TVm5VdnNlUzN5dHNBcGdOVWRHMEs5VDh0SVRZMEdWUEdFMjdJY3liQndqR1FGVy1TdWNoa0syUTNkQjhBRUxtbnNVRFliY1laZjlwUWRZS3ZNVENrOW0zN2JiTVFCVEtCb0VTcjJZNzNPaUpTcXhyOU4yb1pidUN3Z1N4SFZqR3M4bFB0UQ?oc=5",
+   "source": "IndexBox",
+   "summary": "英国、10月に大規模太陽光発電4件を承認 1.12GWのGreat North Roadが主導 - ニュースと統計 IndexBox",
+   "categories": [
+    "solar"
+   ],
+   "type": "news",
+   "published": "2026-10-28T22:43+09:00",
+   "via": "Googleニュース「太陽光発電」",
+   "topic": "その他"
   },
   {
    "id": "400e62156c46d2df",
